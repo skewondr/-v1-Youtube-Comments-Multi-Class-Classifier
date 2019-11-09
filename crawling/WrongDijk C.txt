@@ -1,0 +1,351 @@
+the most viewed video of djiktra's algo is wrongly explained.
+This is clearly wrong at so many points!!!!!
+bhai rhnde tu
+Only the pronunciation is correct😂😂
+You say that if the nodes aren't directly connected that you can't update the values, then you do exactly that at the next node. This video is a very poor example of Dijkstra's
+what u said is actually wrong..i mean the way you took cost matrix
+Believe it or not it's pronounced "CHUTIYA"..........and you are a chutyia
+One cannot reach 5 from 2 directly so it should be infinity and distance from 2 to 4 is infinity so we have to take min of infinity and 8 that is 8 so you should explain that way.
+Wasted our time one day before the exam.
+beta pahle thoda padke aa 
+@4.35, man you  can't fill the matirx for column 5 row 2, since 5 node is not directly connected with the visited set {1,2}.
+One doubt. Why in your 2nd interaction you gave the distance to 5 ? 
+soooooooo.....u  wasted my time
+tridiynydutinity - this how it sounds:D
+This example for is wright for exams.
+This really helps to fail the exam💯😅
+आधी स्वतः अभ्यास करावा मग दुसऱ्याला शिकवावं.
+bhai 3 bar dekhli video, har baar alag samjha rha hai maadarchod
+One question..
+.....and i'm gonna kick you!!!
+Thank you! Great work! Better explained than my Prof did!
+Good job! Helped me a lot.😘
+exam me fail ho gaya teri wajah se!
+that 5 still infinity..
+Thanks buddy..good explanation.. :)
+learn first and then teach it to others.
+Report this video, in spite of warned too my times, didn’t remove this one. So sad only. Remove please. Wrong and poor explanation
+The matrix calculation is wrong!
+Bro flooding in computer network
+can i have this algorithm in java (code) ??
+thanks i understand this algo ..
+Well it totally confused me!
+mistake : {1,2} and cost is 18? how that should be infinite...!!
+Revise before making a tutorial
+6 mins is up😂😂..Who else heard it?
+Dude your approach seems to be confusing :(
+you have explained it wrong, you have to select the number of hops you want before choosing the node to land on.
+I'm a student and i have uploaded a video on avl tree can u guys check it?
+That spoiler for the TV show 😂😂😂
+thank god i read commends before watching video
+greatest voice in the history of mankind
+ye l***y lagwayega
+hag diya muh pe!!
+brother please correct it or remove it....
+you messed up bro while explaining. wrote wrong things while explaining
+waste of my 7.33 minutes of time
+in the second step, there is clearly no edge between 2 and 5......so....how can you calculate the distance to be 18?
+There is no direct path from 2 to 5 so how can you change it from infinity to 18??
+hahaha 7:33 ( totally wasted)
+luv uuh ...best explanation😍😍😘😘
+you have some knowledge on dijkstra... but yet this video failed to prove that...
+Wow what a wrongly explained 🤣🤣
+Bevkoof admi kuchh btao to pura btaao.. itni km knowledge karenge..
+Tatti khaa le mera
+❤️👍🏼
+Dude its prims algorithmstudy first then teach
+U really have a cute voice..
+Man keep it up .....it help me a lot
+Please take this video down as it's creating more confusion.
+Thanks a lot for explaining it a new way
+Marwayega kya exam me!
+Thanks For the Explanation
+Bro pls remove the video..
+explain with some other example
+yr 1 to 5 jate to distance 15 hota na ki 18 ????
+Faulty procedure to calculate the answer , for example , when you reached node 2 in step 3 , you considered node 3 also , which is incorrect process . So it's a humble request not to post misguiding videos .
+Really wrong explanation ok bro please correct it immediately 😒😒😒
+where is 0 refrence 1 this is wrong
+Bas KR Bhai...rehna de 😂🤣
+wrong explanation at 4:20
+watch other video, this explanation is wrong !!!
+Thank you brother
+thanks for right pronounciation .
+thanks for wasting my 7 min chutiya totally wrong😡😡😡
+Excuse me. but from node 2 you can't reach node 4&5 directly, so when you are taking as reference node 2 you have to keep infinity the path to go to the node 4&5 .In the next step you could do for node 4.
+Why we are use infinity as distance
+When visiting node 1 the distance between 1 and 3 is set as infinite. But in the next step the distance between 2 and 4 would remain  8 since it is not adjacent
+How can this be most viewed
+SO YEAH -_-
+at {1,2} , going from 1 to 4, you say we don't follow 1-2-3-4 because the distance is 11 and and that we should follow 1-4 since the distance is 8.
+What an explanation Mind blowing
+You do not set the value of {1,2}  to 5 to 18. It remains infinite.
+it was way before 15 ..you wrote 18 for 2 steps and then 15.while it was 15 from the very first step because 15<18
+Six minutes ho Gaye, ghar ja
+Are ooo hindi me bol le English bhi glt concept bhi glt
+its pronounced dee-k-stra
+सब इसको गलत बोल रहे हैं! और पिछले महीने हमारे गुरूजी ने ये Video प्रोजेक्टर में दिखाया! 
+Thanx brother for explaining clearly
+Wrong algo explained.  Kindly put down the video for the benefit of students.
+bro naa hoo payega terese...
+madarchot sala teri video dekh kar log fail ho sakte he. video nahi bakri chodne par lagja tu bakri chod behenchod
+But you explained dickstra's Algorithm.
+Already Wrong Math Exam mein supply lga diya Koi matt dekhna iiss method ko..
+It is completely wrong. You wasted my time. Please remove this video .
+The lecture as excellent.  Thanks a lot bruh. 
+This explanation is incorrect.
+hi u have great videos ...i really like it.......i have a problem ...i can do the djikstra questions ...but i cant understand the algorithm and the pseudocode....would you upload a video on the algorith of djikstra, kruskall, prim,warshall.....onlyh the algorithm..no examples......i would be very much grateful to you..thank you...
+Chutiye,Tere ko kuch nahi aata
+Wasting of time
+sary concept ki maa behn kr di h
+love you
+Guys, go to the next video or you will fail at exam
+Plz remove ur vedio ...
+video banane se pehle khud ka concept clear karle
+Super bro thanks a lot for this video
+good explanation & thanks a lot
+which college man? College of the unsullied ?
+it's not 'Senda' and 'Receiva' it's sender and receiver :D
+you made it easy
+hmmm meh. No good if its flawed for noobs like me trying to learn
+bro you have taken some point wrong .
+It's a wrong simulation !
+please remove this video
+FIRST OF ALL CLEAR UR CONCEPT  chutiye
+First read the comments than start to watch
+at node 2, wouldn't 5 column be infinity?
+This video just made me dumber
+Take Big examples man if u know how to do the problem ,anyone can do small examples 🤙
+good explaination..
+Clearly wrong, Kindly delete this video this creates a lot of doubts for a student.
+Gaand maar denge bhosidewale, chutiya saala bhen ka loda
+Wrong explantion row 3 is incorrectly filled for 5th vertex
+U r correct bro
+Respect your effort, but consider redoing this video...many have pointed out your errors, and this is going to mislead people who are trying to learn
+Galat bta rha h bro.
+At vertex 2 , it has no direct path to 5 then how could you say there is a path
+Kitna confidence se motherchod pana kar raha he deho!!!
+1 to 5 should be 18 na ???
+u r done it in a wrong process
+Wrong explaining learn more
+It is wrong u made me confused
+made up
+TCS Placement ??
+Kidding !
+Shouldn't the 5 on {1,2} be infinity still, because 2 can't connect to it directly?
+This explanation is not correct and it's the most viewed video for Dijkstra's Algorithm 🤷‍♀️🤦‍♀️... Kindly please remove this video....🙏
+Delete this stuff
+How this video has got so many views?  People like me.... Falling into trap
+Click back for another video. As this algorithm is wrong. Thank me later in 2020.
+Tisre me 15 hoga be
+wrong ,u can not visit 5 directly from 2
+18 distance from 1 to 5 is totally wrong
+kat diya sbka... beta tumne to....hahaha...
+Is this correct? 😕
+Atleast u have to understand what u are saying😑. The method you said wrong to calculate the distance is the method u followed whole video😐
+Delete this vedio
+Why doesnt you take a bigger example?!
+Your are not following same logic for every node in graph. Cannot able to understand.
+bro u r too wrong to this concept ...
+this is a wrong way, get your concepts clear.
+Wrong wrong wrong!
+Behenchod
+How u r writing 18 when 2 is not directly connected with 5 directly ,it shld be infinity
+Abe chutiye
+Believe it or not but this is the way it is actually pronounced....😂😂😂
+Bhag chutiye
+Dijkstra m direction di hoti h . .🤔
+yar ave time zaya kyea ha ase videos na banaya karo kabi wo path lo kabi ya had ho ghe koi mazaq ha logic sa bat karo its wrong
+nonsense explanation
+bc wrost explanation ever starting with node one and its cost is infinity.
+Y did u ryt 18 distance for 5 from 2 it is connected directly
+I don't understand half of what he's saying
+Unimpressive
+man...delete the video ! it's wrong
+Are u sure about that
+Madarchod fail krwa diya quiz me bhsdk bhaag yahan se
+It's well.
+nice vedio bro
+Back paper
+Bhai directed graph leta... Toh shi rhta... sbko smj ata... ye toda confuse krgya...
+Man, you are wrong at so many points! That is not how the algorithm works! Please take this video down and post a new, and correct video so that people don't get confused
+It is a small example you may take few more difficult examples
+Wtf , is this dijkstra's or weighted graph
+I didn't get u??
+thanks for wasting my 7 min chutiya totally wrong😡😡😡
+thanks for wasting my 7 min chutiya totally wrong😡😡😡
+Your lectures are very interesting
+Really poor explanation ..
+Rey niii waste fellow
+completely wrong. Tumse na ho payega !!!!
+pls don't waste time
+Totally useless
+wrong wrong wrong!!!  don't watch this will weaken your concepts.
+bad explanation got confused
+Bhai tum se na ho paega
+false explanation
+Mc , wrong explained
+You better have to do single shortest path clear explanation.
+This is very fruitfull 4 d stdnts u explained so well thanks 4 explaining in such a easy manner
+wrong algorithm
+thanks
+Accent af
+you made small mistakes in middle, but better that all the other videos
+abe galat bata rha hai
+傻逼
+Kamine pehle thik se sikh ke aa  phukat ka net hai isliye pagal bna Raha hai
+You are very very good.
+Wrong concept
+podaaa pundee😏😏😏😏
+Bhai aap Galat kr rahe ho 18 Nahi aaayega
+jo mujhe 50% pata tha  usme bhi confuse kar diya.
+The second node is not directly connected to 5th node then hw can u relax the 5th node by 18
+SO WRONG
+stop writing on screen
+The problem is too short to really explain well the algorithm...
+Delete this video plz.😡
+Wait... What the hell is happening here😠😠😠
+thnx
+That was the incorrect way to solve the algorithm
+galat hai ye
+nicely described
+gltt pdaaa   raaa h ....
+Clearly wrong method bro don't go to teach wrong things
+B C kuch bhi pahle khud ka doubt clear kar yarr.
+vishud chutiya aadmi ho tum
+This video is totally wrong...plz remove this video so that no one would ever lose marks because of u🙏
+O bc ....khamkha tem khrab kr diya
+Whats this
+Absolutely wrong
+Bhag chutiya bc...
+This solution is clearly wrong. You can't update 5 in 2nd step as vertex 5 is not adjacent to 2.
+Totally wrong
+Wrong method delete this video
+muh pe paani marke aa
+Bc sala
+clearly wrong
+Easy sir
+waste of time.. you're wrong
+abe BootStrappers pehle khud ko reboot kr le...Sab bakwaas & wrong
+wrong!!!!!
+tysm
+18 ...not possible
+Good
+this is completely wrong
+Tujhse na ho payega
+tu rehn de mamu. tere se nhi hoga bhai.
+useless. height of uslessness.
+What is this??? Wrong all
+Iski wajah se galat ho gaya mera
+wrong dont watch
+bro this is wrong...
+kyu kiya chutiyapa bsdk bhak
+this is completely wrong don't refer this
+report this video
+You yourself are so confused about what you are saying
+The way u teach is very bad
+?????????????????
+vai tu exam m fail karwayega
+your are absolutely wrong
+choro bhai log bacha hai ye, but bande ne time zaroor waste kiya
+it's wrong
+TF I didn't get any of your line.
+Marna hai kya gandu
+Bhai nhi ata to kislie mehnat kr rhe ho..padho jake ache se
+wronggg
+Wrongly Explained
+Do indians talk english as they are singing?!
+Good attempt.
+Believe me or not u wasted my time. don't post something if u have not learned it properly uaself.
+The way you arrived at the answer was wrong but the answer is correct.
+beta tujhe se naa hoo payega....
+Bhak .....harami kanhike....
+Thank You :). It was informative and clear.
+https://youtu.be/ZS-dvg9s04c
+Lol comment padhle
+good..
+Bhai yhab sikhane Aya h ya comment se apna doubt clear krne
+Wrong method 😡😡😡 pura concept kharab kr dia
+wronggggg
+wrong explaination!
+Galat parha rha ha ye gandu
+You are wrong buddy...
+Abe.  Rehne do bhai
+please correct it because this is wrong. when you visit node {1,2} how can you get the vertex of 4 and 5 which we can't go as we are not yet visited node 3 and node 4. This is wrong.
+Its wrong actually
+please delete video....it has wrong answer....Even normally u can think how 15 will be shortest path value...???
+U copy from the book, but u r not giving reason, Reason  must be to understand, next  ur video  should be with reason.
+bhai tu rehnede  bhai tu kisiko fail karvayega
+raand
+bhai video hatale ...
+ty sir ji
+Idiot Indian .. I got 0 marks for this wrong info :(
+Khud pdle phle ek baar
+Are lagadbagge
+Totally wrong
+you have a dirty nail 
+Bhag chutiye
+It is wrong. Don't refer this !
+tum se na ho payega
+WRONG ..........I THINK it's YOUR ALGORITHM................ for the worst path.
+construction of distance table itself is wrong
+dont follow he done it wrong.
+lol all wrong method you are miss guiding your nation please report block to this channel
+kya yaar gumraah mat kar
+Videos like these are the reason why people say don't believe whatever internet says. It's so wrong to even keeping the video in YouTube - for teaching people incorrectly.
+Why have more people not disliked this, just wasted 5 minutes
+chutia sala
+poor
+This is wrong, please do not see.
+Khud padh le pehle bhai....aaj start kiya krna aur tune start hi kharab kr diya
+Yes, Agree with most of the all. This matrix is wrong and the way he is counting the 18 for node 5 is rubbish. You can only visit 5 after visiting {1,2,3,4} and it will be 15.
+bboooooooo......
+Chl bhkk yhaa se bsdk
+Wrong
+this video is shit..concepts explained here is wrong
+Batti bna le iska ,bakchod!
+Wrong wrong wrong
+bhai kya chutiya kata ye vedio dek ke
+totally wrong
+nice videos send sum more 4 all topics of graph
+I don't know how you got so much views. This is not good. If you are not sure about what you are explaining then don't. This simply wasted my time. At least confirm your knowledge about something when you are releasing a video. Pathetic!
+Achha madarchod..... bunty to chutiya h
+Good
+thank you very much
+It is Wrong, don't follow the steps.
+Galti bataya bus
+u better take a complex problem
+Wrong
+bhai kitna galat hai. delete the video please and don't spread wrong knowledge!
+Sala gaba gandu.....murkha....sala.....bhul padhauchu
+your process is wrong baby
+So wrongly explained. It would be better if this video can be reported. This is completely misleading the people. He explains clearly a wrong content.
+Wrong
+Who plays this video in 1.5x speed?☺️
+Bakwaas.....
+i loved the way u explain ,,, thank u alot ...
+wrong
+I think ur concept is so much good and ur way of expression is really simple and its really good. Thank u
+Wrong
+wrong
+No this is wrong...
+Don't follow him. its wrong.
+Bhosdike madarjaat wrong padhata hai
+gandu chutiya sbka chutiya bna raha h
+acha tym waste kya tune ..
+It is wrong....chutiya
+Please delete tis video as it is wrong
+pure bulshitt
+wrong
+chutiya
+Don't follow it. This is wrong.
+Batna
+wrong...this kid is horribly wrong.. :P :P
+it is wrong
+Horrible explanation. This is wrong, do not listen to this guy.
+Ur language and explanation is nice...  Thank you so much for explain it..
+Madarchod galat hai pura randi ki aulad saala
+thnkss for the help  it really works for me
+BC chutiya
+Nice explaination
+nyc

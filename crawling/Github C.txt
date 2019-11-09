@@ -1,0 +1,194 @@
+How to use GitHub in two easy steps:
+Ok no, I’m going mad here. 0:42, that coder is either never going to code, and always fill his coffee, or never get any coffee and always code. What kind of hell has that if statement locked that poor coder into?
+Yo lol this man throws sooo much shade. 🤣😂
+Siraj , I think at 3:00 the animation should've started from the top live version than the first shown Staging area. I was initially confused in my first  so it might be lil confusing for other noobs like me.
+@ 0:45
+3:09 you mixed the live version description with the local version animation and vice versa 3:26
+Poor programmer .. that code in 0:40 doesn't make sense :(
+4:26 democratic unlike apple😂😂 Siraj is a savage😂😂
+Hey, you are making videos like a mad man 😀
+"Ready to 'commit' to more?"
+Man, your background memes are insane 😂 where do you pick those
+00:23 Lmao that was savage
+My everyday tasks on GitHub: ctrl C and ctrl V
+It's like you know exactly what I'm looking for <3
+Thanks so much! I just started using GitHub for ML projects about a week ago, and it's made my life a lot easier. It really helps to have a simple, compact explanation like this available.
+Lol - I'd like to get one of those updated Model S's - complete with interior flamethrower!  🤣
+Linus 😂😂😂😂😂
+Noooo Siraj, the cool Handmovement in the intro is covered by the fireeee 😀
+This was already there with subversion, cvs and mercurial
+slow down siraj your too fast i think you have covered 30minute content in 11 minutes.
+"like flamethrowers" I'm dead ahahahah
+Awesome as always! When are the live sessions? ;)
+Hey buddy you are doing a great job.  I really love it. I'm following your time table of learning basics of computer science in 5 months. It is amazing. Thank you for your guidance and keep up your great work. You are awesome!
+flamethrower... hahahah :D :D good one!!
+OMG , I've needed this! Thanks++
+Siraj Do you like to see my original Neural network + Algorithm framework for Unity?
+Great video ! could you please improve your animations and overall UI ? I know you can do better 😉
+4:41 Mind Map of how it works
+There's something wrong with the visuals in this one. 🤨
+2:54 flamethrower in Tesla Cars? Looks a good idea. :)
+Thanks. Your video is very well made. Do you have a video, or can you make one, to teach us making good video?
+I like how you're speaking more slowly and explaining more about why something is useful rather than just jumping right into code. It makes it much easier to listen to you.
+Perfect Timing Sir!
+Thanks for covering the basic fundamentals.
+I would love to see your approach and hear your thoughts about GIT and CI (such as Travis CI with Github) w.r.t. development and deployment of models.. 😎👌🏼
+"How to use GitLab or GitCoin, please."
+sir can i make my self financially strong by learning ai and ml these things take time and work i am bound to work for money but also have interest in Ai just asking stuck in situations sir any help or suggestion would be helpfull
+Computer like air conditioner, It becomes useless when you open Windows haha
+Awesome breakdown as usual!!!
+Wow! Very well done explanation of github. I really understood that. I've  used stuff from it. Absolutely love linux. I got on board with linux when it came out and have always used it on a pc. Everybody needs at least 2 computers with a linux operating system.
+I thought this video, as a sequel to social media for programmers, was going to focus on optimizing usage of github, discovering new projects and stuffs like that.
+2:54 LMAO
+in 3:15 you are showing the definitions in the opposite order than you are describing them. And would you use the  "2017 model" you know people might still watch this years after right?
+0:35, coffeeOverflow detected!
+My heart merged with yours.
+A computer is like an air conditioner - it becomes useless when you open windows
+Siraj, you're the best!
+3 videos in basically a day... Best 24 hours ever!!!
+Hi Siraj, thank you so much for your video, which is really great! But could you add English subtitle to this video as I am not good at English and felt a little confused in some points of this video. Thanks for your sharing again !!
+Now I want a flame thrower in my car
+I always advice my junior engineers to start with git UI tools with visual diffs like meld. This way they could strengthen their git workflow (like doing visual diffs review before committing the code) and could easily get familiar with git.
+I can hear Siraj talking but I can't see him. I was searching for him in the whole video.
+I had no awareness of this until about hour or so ago. I've spent today attempting to download an PSO2 and the English patch for it. The Tweaker program for it has a reference to GitHub. As I was looking at it this I saw the notification for this video. Odd coincidence.
+U on fire bruh xD
+@siraj If I want to mantain two different git user accounts, one for my office projs and other for personal projs in my laptop, how do I do it?
+Nice job sir!! Really appreciate your work!!😊
+Videos are awesome dude, and memes aswell
+I like the ironic way your camoflage shirt keeps dissolving into the green-screen!
+2:50
+0:35 If part and else part should be    swapped.
+You can explain it even simpler, bcoz this video is for beginners 😁
+Dude you are making a lot of videos hahaha that I have to look all of them while training my models
+#siraj-o-logy is on steroids.
+i personally know github, but i think its really great that you make this video, especially since all of your tasks need to be linked with github, you are so nice =)
+for the first watching siraj video at 2x speed. BTW nice video!
+Can you make a tutorial on git-ssb? It's decentalized and can't be completely owned by one single entity.
+Your coffee will definitely overflow.
+that coffee if statement tho...
+That analogy was brilliant!
+Will there be 3 videos every Monday?
+Should an ML person care about the design and analysis of algorithms?
+Just curious about the "Unlike Apple" comment after mentioning the democratic process.
+Next video "How to use Gitlab"
+Hello Siraj, 
+Thank you for giving a quick overview of git and github
+From 3:05 you start to list repositories on a reverse order in which they are shown. This makes difficult to follow the description and it makes the whole video untrusty.
+This video needed a pull request... 
+Look what you have done to me .............
+very nice. The quintessential starter I was looking for
+What is the danger zone for devs then?
+Thank you Linus.
+Raj, how do you know so many stuff?🤔
+plz, make videos on how to start contributing open source projects.
+thank you Siraj!
+Help please Siraj. I am trying to startup a digital school with just one subect. My ISP  provider says I cannot have an IP static. 
+This coffee function is bizarre man. Fire your intern.
+Liked for the thumbnail.
+3rd comment 😁
+Always synchronization will help us learn better..your videos are amazing....but when u start coding I get scared....u say something and type something no flow bro....anyways u helped me a lot. It was just an opinion
+Best Explaination of GIT!
+But seriously I couldn't digest for the second that AI/ML wizard like you can ever make video about this.... :D
+I think the best way to learn GitHub is to learn Graph Theory imo
+I think first time you explained in slow
+That thumbnail =)
+Hi siraj, please help where to start with machine learning mathematics?
+4:44 8:00
+Your videos are fun to watch 😂
+Where's the love for 'git rebase'? I had no idea what it was until I made a pull request to some project and was "strongly encouraged" to 'git rebase' instead of 'git merge' in the future. It can make the commit history look cleaner which is nice for large projects, I guess.
+Hey great video! I got a doubt, @8:48 does the checkout command initialise a new branch itself or did you do that before hand sometime?
+Here we go... Infomercial made by Microsoft....the safe space is called " Gitlab" or "Gittorrent"..... Microsoft is a spyware, so they will inject malicious code from github
+Raj is on fire rn in YouTube ! Thanks a lot !
+Thanks a ton Siraj for this video...There are still lots of people who do not know how to use this wonderful software/service .
+flamethrowers on a car. WCGW?
+Great intro, but only one complaint.  The animated graphics often felt like they were out of sync with the narration.  Confusing at first, but eventually made sense.  
+These udemy ads are absolutely aweful.
+it works. Thanks a lot.
+the thumbnail though...
+Can I get an explanation for dummies please and slow it down a bit. :/
+Good video for who have already known how to use git and github but for begginers there are too many abstractions that will make them overthinking and feeling lost when actually try using a new tool
+I think I might be using this website wrong this whole time. I have been using copy&paste for months!
+linus says sarcasm at 0:29
+Excelent explanation, very easy to understand.
+Microsoft will change it to:
+What would be improvement is to teach how to use the C4 modal which is based on fork and merge through code review and acceptance.
+Sir do you have a telegram ID @sirajravaI ????
+hey Siraj,what software are you using for  slides?i like it
+you need git for your video production
+I guess Siraj is triplets. Thats why he(they) can produce so many high quality videos.
+Very confusing, can you make it simpler.
+I would have liked to see a bit of focus on Git =/= GitHub. That is easily the worst thing about trying to teach people about version control.
+This dude looks so extra in his thumbnails but is surprisingly toned down in his videos...
+For self promotion purposes, is it worth putting up small projects? I'm currently looking for a job.
+I was on board with this until the Apple trolling.
+video on how to get started  with ai in 3month who does not know even how to write a hello world program
+Hey Siraj, if you dont like apple (very understandable) why use a mac?
+Thnx for the demonstrations and lucid explanations
+imagine celebrities have github account and millions of followers lol
+Hail god torvalds!
+Which software is used to make this video.
+Siraj prefers SVN :P
+newfinalestfuckthisshitfinal.psd
+Linus is pronounced like Linux
+And what about github desktop app for Windows? Its very easy for noobs
+Nice idea, but I think you should have gone slower on the actual explanation. You explained slower the car example but went faster when you actually showed code. And also the audio explanation is quite out of sync to what the screen is actually showing. If you improved on those two points I think the video would be quite better!
+Btw Microsoft is making a buy bid for this platform ... There goes private development. Watch those terms of service boys and girls
+Now it is my turn to buy github for making Teslas.
+Fire!
+Get the flamethrower!!!!
+Good explained why developer need Github.
+it is either if (!cofee.isEmpty) or if (coffee.isNotEmpty) otherwise he codes forever
+i was abt to search this video
+Thanks! My GitHub has been sitting there collecting dust for a while now. I can put it into use now
+your video is out of sync with audio.
+Y no sponsor?? Button bro
+didnt understand a single word
+Dear Siraj , i think you are a modern hero but... SERIOUSLY!!! SPEAK FASTER please ;)
+I'm boycotting github... I don't support M$ in anyway
+do you hate microsoft? why was there fire when you said ms brought github??
+Can't you talk slowly?
+i am trying to push a repository using git . can anyone help me out ?
+..like flamethrowers.....unlike apple.....xD
+The question is about the future of github. Make it really sens to invest some times on something which could die in few month? For the moment all my actual things stay on github (and I do backup at home in case of MS decides to block everything) but all new stuffs are on gitlab.
+either code forever of fill forever
+All you need to know is Git Clone, Git Pull,  Git Add, Git Commit, and Git Push. Don't @ me.
+It must be crazy to this about how, within about 20 minutes of uploading a video, over 600 people have watched it. That's just a crazy concept
+How is apple not democratic?
+Abandon github. Get on gitlab.
+0:35 should read
+Nice video... Now change to a zsh shell 😬
+Linus has started developing git in 2005 only because of bitKeeper license expiration, yes other VCS wasn't good enough bit bitKeeper was ok.
+spammin'
+There is no engine in tesla..
+Siraj you are on fire🔥🔥
+Instead of making it simple, you made it long and boring.
+Github is so confusing
+Srs question: What speaks against SVN? Isn't it like git just that you host it yourself? (So you're not depending on a company) I privately use SVN for my projects and don't see the benefit of git except the github web-gui.
+The transition animations are super annoying o.O Like the slow moving text that you cant see the full sentence of at 5:00, and then there are even arrows to show what he is talking about while you cant even read the point that arrow is pointing to.
+http://shrtfly.com/WJinKy4
+if coffee is empty keep coding,  else fill the coffee. should it not be, if coffee is not empty, keep coding else fill the coffee?
+Hello
+git reflog
+Not  got even a single word
+your explanation is so difficult  to understand
+More video's on GitHub
+Siraj is God!!!
+u are just talking rubbish and out of point. time waster!!
+Your display of Linus Torvald's profile on Github is a GROSS misrepresentation of Linus's feeling towards Microsoft. Linus is a god of open source and the creator of Git. Showing his profile on Github may give people the impression that he endorses or is okay with Microsoft or Github but he has commits on there since 2007. Torvalds on Microsoft https://www.youtube.com/watch?v=zlFWWrAZ9hU&t=7s
+Hay bro not sure if you wanna work on this idea etc. But I'll give you a quick run down...literally for years I've been watching sports, especially college and NFL football. And these dudes are throwing games for certain. Maybe a lot of folks doing machine learning don't watch sports....but the idea is simple...if you watch a sporting event, and see a player who has made a play that looks, quote un  quote 'fishy' you would circle his name so to speak, with other variables, like odds on the game etc... not sure best way to build data sets etc...not sure if the motivation would be to make money, betting is a slippery slope. I just hate seeing these throw games, and I thought maybe using machine learning it could be a fun way to get ahead of the curve. Thanks for your time....let me know if you have any ideas etc....ok.....peace!!!!!
+Sometimes I use UberEats. Grub Hub doesn't have the restaurants I frequent the most. It's been a positive experience so far.
+This is probably easy to understand If you know GitHub, but I don't understand shit :( Like what is git fetch at 4:35...
+man your stuff is good, but gotta give you a thumbs down because you are overwhelmingly annoying. You are not nearly as cool as you think you are, specially with your oddly looking haircut. but your material is decent.
+Do NOT use Github. Use Gitlab because of Microsoft.
+Haha the flame throwers!
+Tesla doesn't use year models.
+Bitbucket for
+I found the coffee starvation or coffee overflow funny. Was this an intentional joke or a mistake? ;)
+Next video - How to live life
+Recently I read on Reddit about you not being able to code, copying other people's code and spamming Reddit without contributing to them and that's why you got banned from Reddit. My question to you is it true what they say, is most of your code broken?
+It like hotter...Movie...Expression worst....
+just like minecraft, they didn't ruin that by getting rid of what made it great........  :'(
+I just feel that the topics to me are not as attractive as before. Probably because I started as a computer science person and currently start doing machine learning; and Siraj record the videos in the opposite way. Anyway, I still like the videos a lot and hope to see more videos on machine learning, especially mathematics. Thanks Siraj.
+Hii.. Siraj
+First comment
+Hey Sraj what yoi did starting on 3:00 is a real messup.. what you say is not in order with what appears on the screen... dislike for that.
