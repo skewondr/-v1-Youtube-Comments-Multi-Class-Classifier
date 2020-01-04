@@ -1,0 +1,240 @@
+Here’s my solution code to this problem in Python and Java: https://www.csdojo.io/problem
+Learning to be good at solving coding challenges (interview and real life) is done by becoming very familiar with the fundamentals and they boundaries and capabilities. The only way to do that is by rote, much like learning to do integrals, or learning one's 'times' tables. As much of how rote works in many stages of our educational lives, the best thing to do is to curl up on a rainy day with a lot of different problems, and just start doing them. You WILL get good at it.
+Tip #1: Come up with a brute-force solution - 1:23
+The moment your best solution is the brute-force one.
+We miss u here at Google!
+Good luck coming up with these insights first time during a real interview rofl.
+Absolutely Amazing techniques. Thank you CS Dojo. your advice is as always, invaluable. Cheers!
+Why is it O(n) in the second solution of the first problem?
+High quality as always, man. Thank you for your good work. I learn a lot with your videos.
+I was struggling to find something like this, thank you
+Your second solution takes more operations than the first one. I don't see that as an optimization by any means. The first solution take 36 checks. (6*6 ) The second solution does the same checks plus more. That is because you are looking for a solution that doesn't exist then modifying the check to retest. By the time it is done 72 checks to find both 23 and 25 in the way the data is stored.
+order tables, partition each  tables in 2, do additions of extremes, eliminate, ...
+This was on my algorithms exam last semester 😱😱 and we had to prove that ours was most optimal
+You should apply for a professor post in some of the big universities, You name will must be added in the name of great professors there!
+5:44 - till the end - the most important part
+That's actually a very good idea, I haven't thought about, great video)). But why not use binary search in this problem? The complexity would also be O(n log n). You parse through the unsorted array and start binary search on the sorted one to find the closest sum. Roughly speaking, the complexity would be 2 * n * log n, since you only sort one array and use binary search with the other one for n log n. The concept of binary search can be used in a variety of other problems, but I'm not really sure if this can be applicable somewhere else. The idea in the video looks like semi-dynamicProgramming.
+Love your videos man 💪 you made me fall in love with Python 😂 I'm learning how to code it now 💪
+Brute force solution be like: dispair, dispair, dispair. Very useful tips! Thank you!
+I can say I love you man <3
+I found this very interesting and useful. Ty✌
+A great tutorial again from CS Dojo.I have one request though, can you possibly make a video series on competitive programming and stuff?
+You solve my doubts which i find everywhere thank you
+The most awesome explanation I have ever heard! Thank you, Dojo
+Thank you for clear and concise explanation with visuals. Keep up the good work
+Awesome strategies sir, love from India❤❤
+Sir, have you ever visited The Quest Mall, Kolkata, India?
+You are just awesome teacher. I have become a fan of urs. Can u pls tell us about the intractive software u have used in this video for teaching.
+Hi Dojo,
+An iterative solution ( naive / brute force algorithm ) I made before moving on from 1:22 :
+You just wrote a DDA 👍👏
+Hello CS Dojo!
+Learnt so so much in this video alone. Thanks a lot for this high-quality content ❤
+Great explanations 👍🏼
+Great buildup from vague idea of how to do it, to coming up with a way to traverse that grid. Really cool.
+Amazing, it has been very fun to follow
+The set solution is O(n) and array sorting is already O(n*logn), so how is it better?
+This is totally different question but..
+The process of sorting arrays requires time ans space as well.
+First comment 😍
+Hey Cs dojo, your videos are very much different from other online tutors. I loved😍 the python tutorials. I wish you'd make C programming tutorials too. Hoping to hear from you soon.
+what a great way of teaching and what a great video thanks a ton , learnt new things from you.
+Keep it up Dojo❤️
+YK, Thinking out loud.  In an interview setting, it would be intimidating to approach a problem, thinking out loud.   It takes experience and practice to master the technique.  Your explanation is so valuable, learning how to think and what questions to ask.
+Great techniques! Thanks for sharing! Can you please also do a similar video for software system design interview question?
+Is that Django start-up tutorial's completed?
+This was really great thank you
+Interviewer always says yes
+These tips are amazing!! The final solution amazed me, I just recently failed an interview for an intership at one of the big 4 and im determined to study at least 2 hours a day for my next one, I hope you make more videos like these!
+I miss you bro
+My teachers are able to learn by you
+sort in increasing... get highest sum. subtract by each value in either one of the arrays each iteration... then its a simple greater lesser equale check :)
+The Dynamic programming approach was O(nlogn). What was the point of doing that when you already had a O(n) simpler solution? I'm confused
+Sir while installing opencv in anaconda prompt I am getting error can help it's showing failed with initial frozen solve please sir waiting for your reply
+Love watching these even if this isnt my major.
+Hey, Vancouver! Cool!
+thumbs up...want more videos on problem solving techniques. And congratulations to you man, my friends liked your channel too after I suggested them.
+Can someone suggest me a book for helping me understand time complexity
+congratulations on all your subs, iv been subbed from the start.. unfortunartly don't watch any of your videos as I don't understand any lol
+This amazing video steps got me a new amazing job. You are great! Thank you for the awesome content you are generating!
+Thank you, great video! However, please explain why you need a set in the first example: because checking if an element is in the set has time complexity O(1) instead of checking if in a list: O(n).
+First, thanks for your videos.
+I ask the interviewer should Iook for a better solution?
+Sir what's your salary per month when you worked in google?
+Wow never thought in this first way before
+This feels like minesweeper
+Is this question available on any coding platform?
+Great video man! Loved it.
+Thank you soooo much keep up the good work
+Hey cs dojo. Can i be a software engineer after studying information systems management? Please help.
+Hello sir,  good day to you,  pls I have a problem with the semantics on how to solve for the non weighted cgpa of a student,  I have done all the designs just need an assistance on how to apply the logic to calculate the grades and the credit as been submitted  by the student.... Pls I really need your help sir....you can send it to my mail,  francischinedu90@gmail.com or better still you can also do the tutorials.... God bless u sir
+Can you please explain the “O”
+What means O(n^n)?
+What is the font that you are using 0:42 ?
+Welcome back sir
+Can you have a video of yourself as interviewee using pramp or interview.io? It would be good to see how you approach problem solving for unknown question.
+How to prepare for code jam? and how many hours we have to do practice of programming . Please tell me
+solution pattern looks like A* Algorithm (:
+Hi bro I am learning JavaScript how to find client in freelance
+You are genius, thanks a lot for your tips. It really helped me, keep on posting these kinds of videos!
+Is there any way we can further improve the efficiency of your algorithm?  How does one solve if 3 or more sets are given?
+Nice vídeo dude. What app are you using in these algo videos? Thanks and keep up with the great work you're doing!
+it’s useful when you practice solving algorithm questions, but I doubt how much time you have to go though this kind of thinking process in actual interviews, especially considering that interviewers usually have prepared two questions to ask. So practice is still the key. Don’t ever try to rely on the introduced techs to hack an interview
+Is this how genius usually think?
+Can someone implement the second step? for me is just like O(n2)
+Some sort of visualisation... BEN & JERRY'S
+It is like that to save time we have to use more space.
+What program do you use in the video? With the cool disappear animations?
+Wouldn't it be faster to start from the center of the main diagonal, trying to find the edges of solution space and then move in the solution curve in both directions, checking if we found exact solution to break out of the loop?
+I think you can also achieve a nlogn by sorting, and do a modified binary search for the exact or the closest value.
+Bro you are amazing!!!
+TechLead should watch this :D
+Ahahahhaha , I love u thhhxxxxx
+Are questions of coding so easy? 😐😶
+So enlightening bro. Thanks
+You could have solved the problem with the second method in O(nlogn) time if you used a BBST, and binary search for floor and ceiling values. Since we don't actually need the index of the values, we can use a TreeSet in Java (red-black tree) to implement this idea without it being too bulky. This saves from all the ArrayList sorting shenanigans.
+Thanks for the tips, but one thing, there's nothing like 2n, 3n ...... Xn in big O, constants are ignored and 2n or 3n eventually will be O(n) only.
+Your solutions run in O(n^2) you are repeating the same operation for every single element of the second array.
+What is the software you use for the drawings?
+you are always inspiring me
+You need actually to compare half of max value of each array to Target value, to decide from which corner to start (left or right, bottom or upper).
+thanks @CS Dojo . what is your advice  for the online coding assessment when you don't have chance to elaborate your thought process ? should we just skip the brute force solution in that case?
+Thank you YK
+After a long time😁😁
+Great video! What tool did you use for this demonstration video?
+You are just amazing
+Hey, we can solve it O(nlogn) time complexity and O(1) space complexity.
+Can you please make video about creating ftp server communicative with Android?
+So the second solution (set with min-margin search) is the best, right?
+What is name of software that you used for presentation?
+just link 2 & 4 🍩
+Plz tell me the resources of maths for data science
+won't you continue python tutorial??
+I  am a commerce student i study economic and accounting and information practice can i become software developer i learns c++ and python html also
+When are you changing your macbook?
+I have a question for the code attached to the video: why is it 'j = len(a2_sorted) - 1' instead of 'j = len(a2_sorted)' in the nineth line?
+Really helpful video... make these kind of videos more
+Best coding channel!
+nice - 1:23
+You are brilliant.
+Your videos are clear consise and extremely helpful please dont stop lol
+What software do you use to capture and annotate your screen?
+At 4:06 you are going through the first array for every second array element, so the complexity is O(n^2) and not O(n).And unfortunately is just another naive solution>
+Nice explanation . Inspired from your solution I am starting to think , Can we sort one of the Array and search of an element in sorted array for  [ target-number in the unsorted array , target - number in the unsorted array +1 , target-number in the unsortedArray -1 ] using binary search  ?
+Which programming languages would you recommend for a skid to learn?
+What is the tool you used for creating this video YK? I think it is amazing for teaching by this way.
+Please tell us ,how you made the video (when you are teaching us practically)
+My question is: if I m before a panel in an interview, how much time would I be allowed to solve a question? It would put me in immense pressure as it would be awkward for me to take long while they are waiting for me to complete
+Can anyone help please. trying to upload a photo to share on an app. It says Sorry, something went wrong. How do o fix this. Or an alyernive method to upload AnD share photo
+Turkish subtitle please 😢😢
+Upload new videos daily
+But, in the last case, won't the construction of nxn matrix take O(n^2) complexity?
+How did you come up to that strange solution?
+I really really enjoy your videos, problem solving the most, i hope your channel covers more about problem solving and competitive programming
+The first algorithm problem is very similar to the knapsack problem.
+Google Interviewer : We have a problem try to find an answer. 
+im new to programming but it seems as if im stumbling not improving .Im a self taught would you please help me
+I love dynamic solutions
+So you think out the whole solution before you start coding?
+More python tutorial please
+Does anyone else think he should do a video on how to speak as well as him to a camera?
+Nice and very helpful video 
+I'm not even into coding but I just like you 😘
+Does finding a particular element in a set take constant time?
+Hi YK how can i make a new program using Jupiter notebook?
+How come space complexity is O(n)?
+Very clear explanation!
+Still don't understand how you calculated the efficiency of each solution.
+just curious.. during the interview how much time would they give you to solve such problem.... 
+I love simplicity of your video😉😉😁
+It should be the sum, Without going over the target. The overall feal of this video, was interesting. Seeing how problem solving  uses everything, Wasting nothing.
+are we frnds ?
+More python tutorial plz😪
+Don't skip math and algebra in school kids.
+To me the most logical and readable solution would be :  Brute force addition of every pair,  assign a value to each pair using : abs(target - (x+y), and the closest pairs to 0 win .  Voila
+Can you please tell me websites where I can practice more coding problem
+why you cant find sum -> store in the list -> sort it and return the top element? same : O(n) space and O(n log n) time.
+Hey where's the best way to learn python for back end web dev ?
+Another great video - helpful and practical!
+Read "The art and craft of problem solving". Genuinely the best book I've read on expanding my problem solving abilities.
+Why space complexity of the last approach is O(n)? Shouldn't it be O(n^2)?
+One question @14:38 what if there are repeated numbers in array?
+Basically playing minesweeper
+Cs dojo do we need to get good colleges to get job in google
+From which software u make vedio with?
+Awesome solution. I think another O(nlogn) solution is to just sort 2nd array. For each item in 1st array, use binary search to find the first equal or greater item in 2nd array. In the meanwhile, we keep updating the min. Correct me if Im wrong
+Thellar silai going
+U are the one who inspired me to learn programming ❤
+Its like binary search of the sum
+Isn't it O(n2) for the solution with the set ?????
+Beautiful
+why you are stopped the series of Python and Django suddenly
+Ur awesome
+While dealing with arrays most of the time I end up with time exceed error . This video or yours gave me very nice ideas to solve many problems which I was unable to solve earlier thank you very much <(•)-(•)>
+What is the time complexity of  14:53 procedure ??
+After we find a solution with a time complexity of O(n), do we really need to think about an O(n.log n) solution? 
+What's about "Backtracking"?
+Very nice problem and a very elegant solution 👍
+hey cs dojo won't you continue python tutorial????
+Thanks bro
+(Java) The solution I came up with was to populate a TreeSet with the first array and then do lookups on that set with set.floor(exactMatch) and set.ceiling(exactMatch). I think this would have a complexity of  O(n) ?
+Here is the solution I came up with with pyhton:
+Code in C comming up:
+Hi, it's very interesting problem and your approach is to use branch & bound technique. However I find it's not easy to prove the running time is bounded by n*logn. From my opinion, when you have a Set, don't use HashSet but TreeSet then you can search for the closet key in log(n) and you can simply keep track the distance with the target. Thanks
+Do you have any course for developers who has very short time to prepare for Google or Amazon ?
+what is meaning of putting an array in a set?
+Thanks for the great video. You are of great help to us. 
+oh, don't ask the interviewer if he wants a more optimal solution
+But membership checking is itself o(n) so the second method is o(n^2) too
+Problem 1: in the second array, we have 4 and 20 which sum 24.Do we really need numbers from both arrays? Can you please tell me if I mistaken in my judgement?
+Hii can you tell me what is intelligent brother.... Which is a term, with all emerging technologies are involved
+Good video. Got me interested with your channel. Just one question. Doesn't querying whether the element is present or not take o(logn) time? It's akin to binary search as far as I know. But theoretically, you can use Hash buckets for O(1) query.
+Can do hash table for complement of array 1 if sum should be equal to 24 not near it...
+Best advice
+In this type of problem, I would just stick to the brute force strategy, unless otherwise told that scale is a problem. The time taken for you to develop the optimized solution is not worth the company's money, given how fast CPUs are nowadays. The given problem could also be solved asynchronously without too much problems.
+Leetcode hard combinatorics have traumatized me, saw this and immediately wanted to sort both arrays and use binary search to go through the other array and determine closest to target. O(nlogn) and so much more complicated to implement. Funny how sometimes the solution can be so simple and also the most efficient.
+So while this is a good video on how to approach a closed coding problem for reasoning about a solution it highlights some of the shortcomings of doing interviews this way. For one, most problems that you encounter in engineering settings are not going to be solved in 30 minutes with one person solving it. It often takes several iterations with teams collaborating and can take days or even years depending on the complexity of the problem. Being able to code fast and analyze the time complexity is good for avoiding rabbit holes but absolutely terrible for actually solving engineering problems. The fact that this sort of interview has become the norm is a serious issue for draining the talent pool of qualified candidates while passing people who simple study for these "test-like" problems. /rant
+Not boasting but I solved these when I was 12....didn't know they were important ..was given to me by my computer teacher. And I solved them out of ego.
+Alternate approach:
+Isn't O(x.n) a better solution than O(n log n)?
+Hi i just recently started following your videos trying to learn script. i downloaded the anaconda program from the link provided and it gave me a Trojan Script Cloxer Malware program so i would higly advise anyone that has also downloaded anaconda to run a security check on their computer to scan for this. Microsoft identified it as a severe threat and upon research i see it really isnt anything you want to play with. so just a heads up guys.
+Awesome 👍
+Hi Yk
+why do the tip number 2 became o(n) i mean isn't it just the same but changing variabel name to the first array?
+Example is like minesweeper
+Just had a very simular question come up in an interview, thankfully i found this video the day before
+Feels like there is a bit of Number Theory in this kind of problem. Are all these kind of coding interview problems number theory based?
+How close is close?
+Just sort both arrays, from one array pick one element at time and using binary search, search for a other half of number in another array. You can write 2 binary search for this, one should return the exact number or the closest number higher than it and second one should return the exact or closest one smaller than it. Actually you only need to sort the one where binary search is being done.  Overall complexity is O(nlgn). 
+I am always stuck at tip#2 😁
+I’m prepping for a big interview at one of the big 4 companies (or 5 if counting Microsoft) Thank you for this video!
+Thank
+Tip#2
+I love you bro u changed my life
+Which software and tools are you using to make these videos?
+what software you are using for illustrating this
+I love you BRO ❤❤❤❤❤❤❤
+Yeah, but what if we have duplicates in array? That solution doesn't look for them. That will be even faster if we look for them on the start of that task.
+For Tip#2, how it is O(n) ? Lets say right pair is at nth location  for each array. So first we traverse up to last element of first array O(n) time and then for second array also we need to go to nth element right?
+Not impressed by the solution. Very long and useless video. The problem solving technic should be in you and it comes with visualization and practice. The interviewer needs to see the most efficient way in less time. so there is no need to ask him about multiple solutions...sorry this is my perception.
+Hey YK! I am high school student in the SF area whose passionate about programming. I want to get an internship in the summer but I can't seem to find one that doesnt require a college degree. Do you have any tips?
+I would just buy another CPU
+In math and coding, my biggest pet peeve is when people select similar-looking letters for variable names like 
+Second solution - is not o(n).
+Please, someone explain me something at 4:00. Why is the solving time O(n) and not O(n^2)? Even though array1 is in a set, wouldn't it take the same amount of time to compare values in array2 with values in a set made of array2 values? Why is it faster to compare values in a set than in an array, if the number of values are the same in both cases? How does this works at processing level? I'm a novice-intermediate who understands nothing about processing/computing math.
+nice...at begining i thot to use just nested for loop no sort...but with sort u will not have to check all array  :)
+In your udemy course it shows that there's a section 3 string. But it doesn't have content. What is that about?
+I am a beginner. I want to know about, why I want to learn to programme? 
+It is weird that if I used coupon code on udemy the price increases by two folds. (from 10$ to 20$ [this is case in india]).
+Can't you put one of the arrays in a Hash Table and then grab the target and iterate over the array that is not in the hash asking: hash[ |target - array[i]| ] exists? If so, we have a perfect solution in O(n) just by picking the right element on the hash. If we didn't have a perfect solution we still can keep track of the closest with another variable and replace when we find a closer one. That's O(n) at all.
+top notch answer
+insights
+how to find given String is substring of another String without using predefine Function in java please help me
+Nice idea, but I think in this case the visualization  makes the problem a bit more complex than it is. I came up with simple short solution (C++) with runtime complexity O(n log(n)) and space complexity O(n). In my solution arrays can have different sizes.  
+I wrote this - using recursion. If I am not mistaken, this also completes in O(nlogn). Or is it?
+But sorting takes O(n2) in worst case scenario right.
+Do you recommend Codeswars for practicing problem-solving?
+Is it toy donkey on your desk? Do you play with it one in a while?
+Hi... Good video. Like always
+ur so mathematical
+hi dear,  what community can i join to help me stay motivated in programming. i really hope something can keep me active. I'm more into data management or research for finance institutions. However, sometime i found myself having imposter syndrome for not being contribute enough or learning fast enough. how can i get rid of this sickness. it is really killing me.
